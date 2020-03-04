@@ -1,0 +1,1 @@
+This project draws a correlation between previously unrelated social factors and Macroeconomic variables to identify factors that drive the economy at large.
